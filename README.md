@@ -1,2 +1,2 @@
 # Learn-python
-Introductory python with print and conditional statements
+Introductory python lesson that i learnt from codecademy 
