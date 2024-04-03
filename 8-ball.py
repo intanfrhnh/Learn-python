@@ -2,7 +2,7 @@
 import random
 
 #input the name of the questioner
-name = "Hanah"
+name = "Intan"
 
 #the question you want to ask the magic 8-ball
 question = "Do you like him?"
