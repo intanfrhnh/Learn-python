@@ -1,2 +1,2 @@
 # Learn-python
-Introductory python lesson that i learnt from codecademy 
+Lessons that I learnt from various platforms 
